@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeniusYiWai
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Reacy
+- 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
 <!---
